@@ -19,8 +19,18 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GGamangCoder)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **GGamangCoder/GGamangCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGamangCoder&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGamangCoder&theme=buefy&show_icons=true)
+
 
 Here are some ideas to get you started:
 
