@@ -10,7 +10,7 @@
 4. [22.03~22.06, 4개월] **카드 딜러 로봇** - 카메라로 인식한 카드를, pygame으로 구현한 **[Blackjack](https://github.com/GGamangCoder/Toy-Project/tree/main/Blackjack)** 게임 
 
 ## Where & What I worked
-1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트및성능 구현 검토 업무 수행, 프로세스 구현
+1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트 및 성능 구현 검토 업무 수행, 프로세스 구현
 
 ## Tools & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
