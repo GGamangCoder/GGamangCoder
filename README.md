@@ -20,10 +20,12 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Stats
+## Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GGamangCoder)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## BOJ Stats
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxskmj)](https://solved.ac/zxskmj)
 
 <!--
 **GGamangCoder/GGamangCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,9 +41,6 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-## Boj Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxskmj)](https://solved.ac/zxskmj)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
