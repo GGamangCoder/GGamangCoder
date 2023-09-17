@@ -10,7 +10,7 @@
 4. [22.03~22.06, 4개월] **인공지능(AI) 전공 중간, 기말 프로젝트** - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 **[Pacman AI](https://github.com/GGamangCoder/AI-pacman-ai-)** 제작
 5. [22.03~22.06, 4개월] **카드 딜러 로봇** - 카메라로 인식한 카드를, pygame으로 구현한 **[Blackjack](https://github.com/GGamangCoder/Toy-Project/tree/main/Blackjack)** 게임 
 6. [23.05~23.05, 열흘] **영화 추천 사이트 구현** - vue2 와 django restframework를 이용한 영화 추천 서비스, 데이터 학습을 통한 선호 장르 추천 시스템 **[Final_pjt](https://github.com/GGamangCoder/Final_pjt)**
-7. [23.07~22.08, 7주] **시각장애인을 위한 영상통화 서비스(VODA)** - React, Spring Boot, Flask, Nodejs, Yolo V5 model 등을 사용한 웹 사이트 **[VODA(보다)](https://github.com/project-VODA/VODA)** 
+7. [23.07~22.08, 7주] **시각장애인을 위한 영상통화 서비스(VODA)** - React, Spring Boot, Flask, Nodejs, Yolo V5 model 등을 사용한 웹 사이트 **[VODA(보다)](https://github.com/GGamangCoder/VODA_pjt)** 
 
 ## Where & What I worked
 1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트 및 성능 구현 검토 업무 수행, 프로세스 구현
@@ -21,14 +21,20 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=whitee)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=whitee)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GGamangCoder)](https://github.com/anuraghazra/github-readme-stats)
