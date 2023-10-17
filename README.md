@@ -11,6 +11,7 @@
 5. [22.03~22.06, 4개월] **카드 딜러 로봇** - 카메라로 인식한 카드를, pygame으로 구현한 **[Blackjack](https://github.com/GGamangCoder/Toy-Project/tree/main/Blackjack)** 게임 
 6. [23.05~23.05, 열흘] **영화 추천 사이트 구현** - vue2 와 django restframework를 이용한 영화 추천 서비스, 데이터 학습을 통한 선호 장르 추천 시스템 **[Final_pjt](https://github.com/GGamangCoder/Final_pjt)**
 7. [23.07~22.08, 7주] **시각장애인을 위한 영상통화 서비스(VODA)** - React, Spring Boot, Flask, Nodejs, Yolo V5 model 등을 사용한 웹 사이트 **[VODA(보다)](https://github.com/GGamangCoder/VODA_pjt)** 
+8. [23.08~22.10, 7주] **교통 법규 위반 감지 자율 주행 버스(SSAFETY)** - MORAI Simulator에서 자율주행을 실시, ResNet 모델 결과를 웹에 보여주는 서비스 **[SSAFETY(쎄이프티)](https://github.com/SSAFETY/SSAFETY)**
 
 ## Where & What I worked
 1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트 및 성능 구현 검토 업무 수행, 프로세스 구현
