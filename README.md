@@ -12,7 +12,7 @@
 6. [23.05~23.05, 열흘] **영화 추천 사이트 구현** - vue2 와 django restframework를 이용한 영화 추천 서비스, 데이터 학습을 통한 선호 장르 추천 시스템 **[Final_pjt](https://github.com/GGamangCoder/Final_pjt)**
 7. [23.07~22.08, 7주] **시각장애인을 위한 영상통화 서비스(VODA)** - React, Spring Boot, Flask, Nodejs, Yolo V5 model 등을 사용한 웹 사이트 **[VODA(보다)](https://github.com/GGamangCoder/VODA_pjt)** 
 8. [23.08~22.10, 7주] **교통 법규 위반 감지 자율 주행 버스(SSAFETY)** - MORAI Simulator에서 자율주행을 실시, ResNet 모델 결과를 웹에 보여주는 서비스 **[SSAFETY(쎄이프티)](https://github.com/SSAFETY/SSAFETY)**
-9. [23.10~22.11, 6주] **서로에게 남기는 메시지, 우리가 만들어가는 정원 - 그루그루(Groogroo)** - 익명의 메시지와 함께 생성형 AI로 만든 에셋들로 함께 꾸며가는 공간 **[그루(Groogroo)](#)**
+9. [23.10~22.11, 6주] **서로에게 남기는 메시지, 우리가 만들어가는 정원 - 그루그루(Groogroo)** - 익명의 메시지와 함께 생성형 AI로 만든 에셋들로 함께 꾸며가는 공간 **[그루그루(Groogroo)](https://github.com/jeongwonchogwa/groogroo)**
 
 ## Where & What I worked
 1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트 및 성능 구현 검토 업무 수행, 프로세스 구현
