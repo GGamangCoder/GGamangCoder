@@ -16,7 +16,8 @@
 
 ## Where & What I worked
 1. [22.09~22.12, 4개월] **하이비젼시스템(인턴)** - 제어 그룹, SW 엔지니어링; 제어 모션 SW 테스트 및 성능 구현 검토 업무 수행, 프로세스 구현
-2. [23.01~현재, 수강중] **SSAFY(싸피)** - 삼성 청년 SW 아카데미 9기
+2. [23.01~23.12, 1년(1,600시간)] **SSAFY(Samsung SW Academy For Youth, 싸피)** - 삼성 청년 SW 아카데미 9기 교육 수료
+3. [24.01~현재] **SSAFY(Samsung SW Academy For Youth, 싸피)** - 삼성 청년 SW 아카데미 10기 서울 실습 코치
 
 ## Tools & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
